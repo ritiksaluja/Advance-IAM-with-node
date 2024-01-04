@@ -1,0 +1,16 @@
+{
+  "name": "aws-iam-adv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ritik",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-iam": "^3.484.0",
+    "express": "^4.18.2"
+  }
+}
